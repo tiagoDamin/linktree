@@ -42,7 +42,6 @@ h2 {
     justify-content: space-around;
     list-style: none;
     margin: 20px 0;
-    width: 90%;
 }
 
 .social img {
@@ -54,7 +53,6 @@ h2 {
   }
   
   .links-list li {
-    width: 80%;
     margin: 10px 20px;
   }
   
